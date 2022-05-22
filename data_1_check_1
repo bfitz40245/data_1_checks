@@ -1,0 +1,10 @@
+print('Hello World')
+
+fruits = ['banana', 'apple', 'kiwi', 'mango']
+print(fruits[0])
+
+fruits = {'banana' : 'yellow', 'apple': 'red', 'kiwi': 'green', 'mango': 'orange'}
+print(fruits['banana'])
+
+vegetables = ('carrot', 'broccoli', 'zucchini', 'pepper')
+print(vegetables[1])
